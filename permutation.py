@@ -23,5 +23,5 @@ def permutations(iterable, r=None):
         else:
             return
 
-for i in permutations(range(3)):
-    print(i)
+
+
